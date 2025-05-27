@@ -40,12 +40,13 @@
 
 ## 🌟 Featured Projects
 
-- [**ProjectX**](https://health-recipes-frontend.netlify.app/): Baby Bites to Golden Delights – Healthy Recipes & Tips for All thys.
-- [**TaskFlow**](https://777bags.com/): Custom Product Packaging Web Site.
-- [**OpenBlog**](https://bjjsource.com/): Course Uploader System.
-- [**ProjectX**](https://mind-care-taupe.vercel.app/): Doctor Appointment Booking System.
-- [**TaskFlow**](https://synergy-nvest.netlify.app/): Real estate website.
-- [**OpenBlog**](https://theoa.softvencefsd.xyz/): Mobile App for Alarm System For Backend.
+- [**Project1**](https://health-recipes-frontend.netlify.app/): Baby Bites to Golden Delights – Healthy Recipes & Tips for All thys.
+- [**Project2**](https://777bags.com/): Custom Product Packaging Web Site.
+- [**Project3**](https://bjjsource.com/): Course Uploader System.
+- [**Project4**](https://mind-care-taupe.vercel.app/): Doctor Appointment Booking System.
+- [**Project5**](https://synergy-nvest.netlify.app/): Real estate website.
+- [**Project6**](https://theoa.softvencefsd.xyz/): Mobile App for Alarm System For Backend.
+- ....
 ---
 
 ## 🏅 Certifications / Awards
